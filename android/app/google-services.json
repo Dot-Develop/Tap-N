@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "728792372184",
+    "firebase_url": "https://tap-n-cfd09.firebaseio.com",
+    "project_id": "tap-n-cfd09",
+    "storage_bucket": "tap-n-cfd09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728792372184:android:7417d86eda31ebe14a58ad",
+        "android_client_info": {
+          "package_name": "com.mohammed.tapn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "728792372184-ksiof0k01h7ec1ukjv3j1e8md260abpq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnDrS-_hf1k3N3uHSDSn8tnniKqTxGIVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "728792372184-ksiof0k01h7ec1ukjv3j1e8md260abpq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "728792372184-a62uao9ik2m2oh8aa9o7okcuvsl9jehe.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mohammed.tapn"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
